@@ -1,4 +1,4 @@
-package com.example.finwise.application.controller;
+package com.example.finwise.application.adapters;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
